@@ -7,7 +7,7 @@
 ```
 gem install sass
 
-gem install compasss
+gem install compass
 
 gem install sass-globbing
 
